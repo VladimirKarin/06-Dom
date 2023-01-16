@@ -1,0 +1,15 @@
+.green {
+    color: green;
+}
+
+button {
+    font-size: 20px;
+    padding: 0.5em;
+    display: inline-block;
+}
+
+.score {
+    display: inline-block;
+    font-size: 20px;
+    padding: 0.5em 1em;
+}
